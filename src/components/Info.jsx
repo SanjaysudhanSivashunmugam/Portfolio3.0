@@ -1,7 +1,7 @@
 
 export default function Info() {
     return (
-        <div style={{ backgroundColor: "#030712" }}>
+        <div style={{ backgroundColor: "#030712" }} id="contact">
             <div className="container  text-light">
                 <div className="d-flex flex-column align-items-center">
                     <span className="px-4 py-1 rounded-pill mt-5 mb-4" style={{ backgroundColor: "#374151" }}>

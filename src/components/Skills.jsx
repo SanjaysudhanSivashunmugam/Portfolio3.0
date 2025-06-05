@@ -12,7 +12,7 @@ import mysql from '../assets/mysql.png'
 import '../css/index.css'
 export default function Skills() {
     return (
-        <div className="bg">
+        <div className="bg" id='skill'>
             <div className="container text-light" >
                 <div className="d-flex align-items-center flex-column">
                     <span className="px-4 py-1 rounded-pill text-light mt-4 mb-3" style={{ backgroundColor: "#374151" }}>Skills</span>

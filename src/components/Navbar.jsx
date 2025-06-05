@@ -2,7 +2,7 @@ import '../css/index.css'
 function Navbar() {
     return (
         <div>
-            <nav className="navbar navbar-expand-lg bg top">
+            <nav className="navbar navbar-expand-lg bg">
                 <div className="container text-light">
                     <a className="navbar-brand fs-2 text-light" href="#">Sanjaysudhan S</a>
                     <button className="navbar-toggler shadow-none border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
@@ -21,13 +21,13 @@ function Navbar() {
                                     <a className="nav-link text-light" aria-current="page" href="#">Home</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link text-light" href="#">About</a>
+                                    <a className="nav-link text-light" href="#about">About</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link text-light" href="#">Project</a>
+                                    <a className="nav-link text-light" href="#project">Project</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link text-light" href="#">Contact</a>
+                                    <a className="nav-link text-light" href="#contact">Contact</a>
                                 </li>
                             </ul>
                             <div>

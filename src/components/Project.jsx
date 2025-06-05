@@ -5,7 +5,7 @@ import p4 from '../assets/p4.png';
 
 export default function Project() {
     return (
-        <div className="text-light" style={{ backgroundColor: "#111827" }}>
+        <div className="text-light" style={{ backgroundColor: "#111827" }} id='project'>
             <div className="container pb-5">
                 <div className="d-flex flex-column align-items-center">
                     <span className="px-4 py-1 rounded-pill text-light mt-4 mb-3" style={{ backgroundColor: "#374151" }}>
