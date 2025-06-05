@@ -2,7 +2,7 @@ import '../css/index.css'
 function Navbar() {
     return (
         <div>
-            <nav className="navbar navbar-expand-lg bg fixed-top">
+            <nav className="navbar navbar-expand-lg bg top">
                 <div className="container text-light">
                     <a className="navbar-brand fs-2 text-light" href="#">Sanjaysudhan S</a>
                     <button className="navbar-toggler shadow-none border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
@@ -12,7 +12,7 @@ function Navbar() {
                     </button>
                     <div className="offcanvas offcanvas-start sidebar bg" tabIndex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
                         <div className="offcanvas-header bg">
-                            <h5 className="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
+                            <h5 className="offcanvas-title" id="offcanvasNavbarLabel">Sanjaysudhan S</h5>
                             <button type="button" className="btn-close btn-close-white shadow-none " data-bs-dismiss="offcanvas" aria-label="Close"></button>
                         </div>
                         <div className="offcanvas-body bg">
@@ -30,7 +30,7 @@ function Navbar() {
                                     <a className="nav-link text-light" href="#">Contact</a>
                                 </li>
                             </ul>
-                            <div >
+                            <div>
                                 <a className="btn btn-light rounded-5" href="#">Resume</a>
                             </div>
                         </div>
