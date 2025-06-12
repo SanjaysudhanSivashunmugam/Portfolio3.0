@@ -46,7 +46,6 @@ export default function Info() {
                                             </svg>
                                         </div>
                                         <div className="overflow-auto">
-                                            <p className="mb-0 text-muted">Email</p>
                                             <p className="mb-0" style={{ fontSize: "1.05rem" }}>sanjaysudhan.sivashunmugam@gmail.com</p>
                                         </div>
                                     </div>
@@ -66,7 +65,6 @@ export default function Info() {
                                             </svg>
                                         </div>
                                         <div>
-                                            <p className="mb-0 text-muted">Phone</p>
                                             <p className="mb-0" style={{ fontSize: "1.05rem" }}>+91 77085 98488</p>
                                         </div>
                                     </div>
