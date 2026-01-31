@@ -24,7 +24,7 @@ export default function Hero() {
                         </div>
 
                         {/* Heading and Typewriter */}
-                        <h4 className='mb-3 mb-md-4'>Hi, I am Sanjaysudhan Sivashunmugam</h4>
+                        <h4 className='mb-3 mb-md-4'>Hi, I am Sanjaysudhan Sivashanmugam</h4>
                         <h1 className='mb-3 mb-md-4' style={{ fontSize: 'clamp(1.5rem, 5vw, 2.2rem)' }}>
                             I am a{' '}
                             <span style={{ color: 'red', fontWeight: 'bold' }}>
